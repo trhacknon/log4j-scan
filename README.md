@@ -105,7 +105,7 @@ $ pip3 install -r requirements.txt
 # Docker Support
 
 ```shell
-git clone https://github.com/fullhunt/log4j-scan.git
+git clone https://github.com/trhacknon/log4j-scan.git
 cd log4j-scan
 sudo docker build -t log4j-scan .
 sudo docker run -it --rm log4j-scan
